@@ -14,7 +14,8 @@ R-Package  | Use
 lubridate  | Convenient handling/manipulation of date attributes
 dplyr  | Data manipulation - filtering, summarizing etc.
 ggplot2  | Advanced visualization
-mice  | Advanced imputation
+mice  | Imputation
+reshape2  | Reshaping of data frames
 
 
 ```{r message=FALSE,warning=FALSE}
